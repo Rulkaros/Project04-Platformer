@@ -6,7 +6,8 @@ Context and date
 Description
 
 ## Implementation
-Which features you included.
+Music and sound effects
+start-game
 
 ## References
 
